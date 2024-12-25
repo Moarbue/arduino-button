@@ -1,0 +1,18 @@
+Button_Mode	KEYWORD1
+Button_Action	KEYWORD1
+Button	KEYWORD1
+
+begin	KEYWORD2
+setDebounceTime	KEYWORD2
+setDoublePressInterval	KEYWORD2
+setLongPressTime	KEYWORD2
+setOnPressFunc	KEYWORD2
+setOnReleaseFunc	KEYWORD2
+setOnSinglePressFunc	KEYWORD2
+setOnDoublePressFunc	KEYWORD2
+setOnLongPressFunc	KEYWORD2
+update	KEYWORD2
+
+ACTIVE_LOW	LITERAL1
+ACTIVE_HIGH	LITERAL1
+ACTIVE_LOW_INTERNAL	LITERAL1

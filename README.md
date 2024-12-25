@@ -1,6 +1,7 @@
 # Button Arduino Library
 
-A simple Arduino library to interact with buttons.
+A simple Arduino library, which support callbacks to interact with buttons.
+Various actions like double press, single press and long press are also supported.
 
 # Example
 
